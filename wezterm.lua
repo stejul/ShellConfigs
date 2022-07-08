@@ -6,4 +6,5 @@ return {
   initial_cols = 200,
   initial_rows = 50,
   font = wezterm.font("FiraCode Nerd Font Mono", { weight = "Regular"}),
+  audible_bell = "Disabled",
 }
